@@ -1,4 +1,6 @@
+<br>
 Off-Platform Project: Excursion
+</br>
 <br>
 A web page which advertises a product called “Excursion.” Use HTML, CSS, Command Line Interface, Git, and GitHub. 
 </br>
