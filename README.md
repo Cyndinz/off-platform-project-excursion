@@ -22,3 +22,6 @@ Upon arrival in the Emergency Department the patient data is synced to ensure th
 </li>
 </ul>
 </br>
+<br>
+<italic> check out the live page by clicking https://cyndinz.github.io/triageplus-bau/
+</br>
