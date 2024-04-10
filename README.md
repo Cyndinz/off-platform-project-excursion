@@ -1,5 +1,5 @@
 <br>
-Off-Platform Project: Triage-Plus
+Off-Platform Project: <strong>Triage-Plus</strong>
 </br>
 <br>
 A web page which advertises a product called Triage-Plus BAU.” Use HTML, CSS, Command Line Interface, Git, and GitHub. 
